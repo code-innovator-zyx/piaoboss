@@ -1,0 +1,63 @@
+{
+    "abis": [
+        "arm64-v8a",
+        "armeabi-v7a",
+        "x86",
+        "x86_64"
+    ],
+    "assets": [
+        {
+            "form": "file:///android_asset/mlkit-google-ocr-models",
+            "to": "/mlkit-google-ocr-models"
+        },
+        {
+            "form": "/storage/emulated/0/脚本/piaoboss",
+            "to": "/project"
+        }
+    ],
+    "buildDir": "build",
+    "build": {
+        "build_id": null,
+        "build_number": 0,
+        "build_time": 0
+    },
+    "useFeatures": [],
+    "icon": "res/logo.png",
+    "ignoredDirs": [
+        "build",
+        "docs"
+    ],
+    "encrypt-code": true,
+    "launchConfig": {
+        "displaySplash": true,
+        "hideAccessibilityServices": false,
+        "hideLauncher": false,
+        "hideLogs": false,
+        "stableMode": true,
+        "volumeUpcontrol": false,
+        "permissions": [
+            "draw_overlay"
+        ],
+        "serviceDesc": "专业的多平台抢票脚本软件",
+        "splashIcon": "res/bk.jpg",
+        "splashText": "抢票快人一步--就是这么简单"
+    },
+    "libs": [
+        "libmlkit_google_ocr_pipeline.so",
+        "libjackpal-androidterm5.so",
+        "libjackpal-termexec2.so"
+    ],
+    "main": "main.js",
+    "name": "票霸",
+    "outputPath": "/storage/emulated/0/脚本/piaoboss/build",
+    "packageName": "com.ticketwizard.piaoboss",
+    "projectDirectory": "/storage/emulated/piaoboss/脚本/piaoboss",
+    "scripts": {},
+    "signingConfig": {
+        "alias": null,
+        "keystore": null
+    },
+    "sourcePath": "/storage/emulated/0/脚本/piaoboss/main.js",
+    "versionCode": 1,
+    "versionName": "1.0.0"
+}
