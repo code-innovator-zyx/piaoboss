@@ -47,7 +47,7 @@
         "libjackpal-androidterm5.so",
         "libjackpal-termexec2.so"
     ],
-    "main": "main.js",
+    "main": "page.js",
     "name": "票霸",
     "outputPath": "/storage/emulated/0/脚本/piaoboss/build",
     "packageName": "com.ticketwizard.piaoboss",
@@ -57,7 +57,7 @@
         "alias": null,
         "keystore": null
     },
-    "sourcePath": "/storage/emulated/0/脚本/piaoboss/main.js",
+    "sourcePath": "/storage/emulated/0/脚本/piaoboss/page.js",
     "versionCode": 1,
     "versionName": "1.0.0"
 }
