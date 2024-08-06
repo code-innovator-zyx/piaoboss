@@ -42,3 +42,6 @@
 ## 许可证
 
 本项目使用 [MIT License](LICENSE) 进行许可。请参阅 LICENSE 文件了解详细信息。
+
+V我一下催更(点赞吹更)：
+![qr](/docs/good.jpg)
